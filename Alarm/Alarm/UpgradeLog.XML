@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Alarm">
+</Property><Property Name="Solution File" Value="C:\Users\Login\Desktop\MASAÜSTÜ\29.09OluşturulanKlasör\15.10Klasörler\228_Adet_CSharp_oernek_Program_\228 Adet CSharp Örnek Programı\Alarm\Alarm\Alarm.sln">
+</Property><Property Name="Date" Value="20 Ocak 2010 Çarşamba">
+</Property><Property Name="Time" Value="23:49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Alarm.sln" Description="File successfully backed up as C:\Users\Login\Desktop\MASAÜSTÜ\29.09OluşturulanKlasör\15.10Klasörler\228_Adet_CSharp_oernek_Program_\228 Adet CSharp Örnek Programı\Alarm\Alarm\Backup\Alarm.sln">
+</Event><Event ErrorLevel="0" Project="Alarm" Source="Alarm.csproj" Description="Project file successfully backed up as C:\Users\Login\Desktop\MASAÜSTÜ\29.09OluşturulanKlasör\15.10Klasörler\228_Adet_CSharp_oernek_Program_\228 Adet CSharp Örnek Programı\Alarm\Alarm\Backup\Alarm.csproj">
+</Event><Event ErrorLevel="0" Project="Alarm" Source="Alarm.csproj.user" Description="Project user file successfully backed up as C:\Users\Login\Desktop\MASAÜSTÜ\29.09OluşturulanKlasör\15.10Klasörler\228_Adet_CSharp_oernek_Program_\228 Adet CSharp Örnek Programı\Alarm\Alarm\Backup\Alarm.csproj.user">
+</Event><Event ErrorLevel="0" Project="Alarm" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Login\Desktop\MASAÜSTÜ\29.09OluşturulanKlasör\15.10Klasörler\228_Adet_CSharp_oernek_Program_\228 Adet CSharp Örnek Programı\Alarm\Alarm\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Alarm" Source="Form1.cs" Description="File successfully backed up as C:\Users\Login\Desktop\MASAÜSTÜ\29.09OluşturulanKlasör\15.10Klasörler\228_Adet_CSharp_oernek_Program_\228 Adet CSharp Örnek Programı\Alarm\Alarm\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Alarm" Source="App.ico" Description="File successfully backed up as C:\Users\Login\Desktop\MASAÜSTÜ\29.09OluşturulanKlasör\15.10Klasörler\228_Adet_CSharp_oernek_Program_\228 Adet CSharp Örnek Programı\Alarm\Alarm\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Alarm" Source="Form1.resx" Description="File successfully backed up as C:\Users\Login\Desktop\MASAÜSTÜ\29.09OluşturulanKlasör\15.10Klasörler\228_Adet_CSharp_oernek_Program_\228 Adet CSharp Örnek Programı\Alarm\Alarm\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Alarm" Source="Alarm.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Alarm" Source="Alarm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Alarm.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Alarm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Alarm" Source="Alarm.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
